@@ -5,7 +5,7 @@ package com.bhaiti.rest.controller;
 
 /**
  * @author Abhijit P
- *
+ * This is a sample controller class to handle get request 
  */
 import com.bhaiti.beans.Welcome;
 
