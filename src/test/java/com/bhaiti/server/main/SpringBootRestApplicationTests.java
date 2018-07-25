@@ -1,5 +1,5 @@
 package com.bhaiti.server.main;
-
+//This is a auto generated test class
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
