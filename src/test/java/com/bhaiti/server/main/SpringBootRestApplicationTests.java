@@ -25,7 +25,7 @@ public class SpringBootRestApplicationTests {
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
-		setSSLConnection(url_, "POST", "text/xml");
+		//setSSLConnection(url_, "POST", "text/xml");
 		try {
 			url_ = new URL("http://localhost:8083//welcome/user?name=Abhijit");
 		}
