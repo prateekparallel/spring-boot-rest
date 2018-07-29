@@ -20,11 +20,11 @@ public class SpringBootRestApplicationTests {
 	
 	@Test
 	public void contextLoads() {
-		try {
-			url_ = new URL("http://localhost:8083//welcome/user?name=Abhijit");
-		}catch(Exception e) {
-			e.printStackTrace();
-		}
+		//try {
+			//url_ = new URL("http://localhost:8083//welcome/user?name=Abhijit");
+		//}catch(Exception e) {
+			//e.printStackTrace();
+		//}
 		//setSSLConnection(url_, "POST", "text/xml");
 		try {
 			url_ = new URL("http://localhost:8083//welcome/user?name=Abhijit");
